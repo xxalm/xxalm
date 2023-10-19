@@ -1,6 +1,7 @@
 ### Hello, there! 👋
 
-##
+<img src="avatar.gif" align="right" width="120"/>
+
 
 - 👨‍💻 I'm currently working as a banking
 - 🌱 Studying HTML, CSS and Javascript 
