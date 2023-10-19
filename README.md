@@ -17,5 +17,5 @@
 <div align="center">
   <a href="https://github.com/Leckalmeida">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Leckalmeida&show_icons=true&count_private=true&line_height=30&theme=dark"/>
-  <img height="100em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Leckalmeida&layout=compact&theme=dark"/>
+  <img height="50%em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Leckalmeida&layout=compact&theme=dark"/>
 </div>
