@@ -4,7 +4,7 @@
 
 
 - 👨‍💻 I'm currently working as a banking
-- 🌱 Studying HTML, CSS and Javascript 
+- 🌱 Studying Analysis and Systems Development 
 - 🧔🏻‍♂️ Pronouns: He/Him
 
 <div style="display: inline_block"><br>
