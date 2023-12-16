@@ -3,7 +3,7 @@
 <img src="avatar.gif" align="right" width="120"/>
 
 
-- 👨‍💻 I'm currently working as a banking
+- 👨‍💻 I'm currently on pause in my career as I transition to tech field
 - 🌱 Studying Analysis and Systems Development 
 - 🧔🏻‍♂️ Pronouns: He/Him
 
