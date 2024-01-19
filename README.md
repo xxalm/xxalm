@@ -1,6 +1,6 @@
 ### Hello, there! 👋
 
-<img src="avatar.gif" align="right" width="120"/>
+<img src="avatar2.gif" align="right" width="120"/>
 
 
 - 🏋️ Practicing GoLang
