@@ -4,7 +4,7 @@
 
 
 - 🏋️ Practicing GoLang
-- 🌱 Studying Analysis and Systems Development
+- 🧑‍💻 Backend developer
 - 🧔🏻‍♂️ Pronouns: He/Him
 
 <div style="display: inline_block"><br>
