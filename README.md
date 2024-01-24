@@ -3,8 +3,8 @@
 <img src="avatar2.gif" align="right" width="280"/>
 
 
-- 🏋️ Practicing GoLang
 - 🧑‍💻 Backend developer
+- 🏋️ Practicing GoLang
 - 🧔🏻‍♂️ Pronouns: He/Him
 
 <div style="display: inline_block"><br>
