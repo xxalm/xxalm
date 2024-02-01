@@ -3,7 +3,7 @@
 <img src="avatar2.gif" align="right" width="280"/>
 
 
-- 🧑‍💻 Backend developer
+- 🧑‍💻 Fullstack Developer
 - 🏋️ Practicing GoLang
 - 🧔🏻‍♂️ Pronouns: He/Him
 
