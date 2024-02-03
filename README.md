@@ -1,4 +1,3 @@
-### Hello, there! 👋
 
 <div style="text-align: right; margin-top: 50px; margin-right: 50px;">
   <img src="avatar2.gif" width="320" />
