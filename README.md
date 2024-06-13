@@ -3,12 +3,12 @@
   <img src="avatar2.gif" width="320" />
 </div>
 
-- 🧑‍💻 I'm a Fullstack Developer
+- 🧑‍💻 Fullstack Developer
 - 🏋️ Practicing GoLang
 - 🧔🏻‍♂️ Pronouns: He/Him
 
 
-## Techonologies I use 
+## This is what I know 
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
