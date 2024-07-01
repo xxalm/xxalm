@@ -1,39 +1,90 @@
 
 <div style="text-align: right; margin-top: 50px; margin-right: 50px;">
-  <img src="avatar2.gif" width="320" />
+  <img src="avatar2.gif" width="400" />
 </div>
 
-- 🧑‍💻 Fullstack Developer
-- 🏋️ Practicing GoLang
-- 🧔🏻‍♂️ Pronouns: He/Him
+###
 
+```csh
+using System;
 
-## This is what I know 
-<div style="display: inline_block"><br>
+public class Developer {
+  public string Name { get; set; }
+  public string Field { get; set; }
+  public string Company { get; set; }
+  public string Local { get; set; }
+}
 
-  <img align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
-  <img align="center" alt="Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
-  <img align="center" alt="Rspec" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" />
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  
-  
-</div>
+public class AboutMe : Developer {
+  public AboutMe() {
+    Name = "Leckson";
+    Field = ".NET/C# Developer";
+    Company = "ABIEL IT Solutions";
+    Local = "Brazil";
+  }
+}
 
-##
+public class Skills : Developer {
+  public string[] Languages { get; set; }
+  public string[] Libraries { get; set; }
+  public string[] Frameworks { get; set; }
 
-## My github stats
+  public Skills() {
+    Languages = new string[] { "C#", "JavaScript", "Ruby", "Python", "PHP" };
+    Libraries = new string[] { "React", "React Native" };
+    Frameworks = new string[] { ".NET", "Ruby on Rails", "Django", "Laravel", "Angular", "Node.js", "Vue.js" };
+  }
+}
 
-<div align="center">
-  <a href="https://github.com/xxalm">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=xxalm&show_icons=true&count_private=true&line_height=30&theme=highcontrast"/>
-  <img height="50%em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xxalm&layout=compact&theme=highcontrast"/>
-</div>
+```
 
+### ⚙️ GitHub Analytics
 
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        width="400"
+        src="https://github-readme-stats.vercel.app/api?username=xxalm&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        width="350"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxalm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        width="350"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=xxalm&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+--- 
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=xxalm&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+---
 
