@@ -31,7 +31,7 @@ public class Skills : Developer {
 
   public Skills() {
     Languages = new string[] { "C#", "JavaScript", "Ruby", "Python", "PHP" };
-    Libraries = new string[] { "React", "React Native" };
+    Libraries = new string[] { "React" };
     Frameworks = new string[] { ".NET", "Ruby on Rails", "Django", "Laravel", "Angular", "Node.js", "Vue.js" };
   }
 }
