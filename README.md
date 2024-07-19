@@ -12,7 +12,8 @@ public class Developer {
   public string Name { get; set; }
   public string Field { get; set; }
   public string Company { get; set; }
-  public string Local { get; set; }
+  public string Location { get; set; }
+  public Skills DeveloperSkills { get; set; }
 }
 
 public class AboutMe : Developer {
@@ -20,11 +21,12 @@ public class AboutMe : Developer {
     Name = "Leckson";
     Field = ".NET/C# Developer";
     Company = "ABIEL IT Solutions";
-    Local = "Brazil";
+    Location = "Brazil";
+    DeveloperSkills = new Skills();
   }
 }
 
-public class Skills : Developer {
+public class Skills {
   public string[] Languages { get; set; }
   public string[] Libraries { get; set; }
   public string[] Frameworks { get; set; }
