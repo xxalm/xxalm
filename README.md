@@ -14,15 +14,19 @@ public class Developer {
   public string Company { get; set; }
   public string Location { get; set; }
   public Skills DeveloperSkills { get; set; }
+
+  public Developer(string name, string field, string company, string location, Skills developerSkills) {
+    Name = name;
+    Field = field;
+    Company = company;
+    Location = location;
+    DeveloperSkills = developerSkills;
+  }
 }
 
 public class AboutMe : Developer {
-  public AboutMe() {
-    Name = "Leckson";
-    Field = ".NET/C# Developer";
-    Company = "ABIEL IT Solutions";
-    Location = "Brazil";
-    DeveloperSkills = new Skills();
+  public AboutMe() 
+      : base("Leckson", ".NET/C# Developer", "ABIEL IT Solutions", "Brazil", new Skills()) {
   }
 }
 
@@ -32,9 +36,9 @@ public class Skills {
   public string[] Frameworks { get; set; }
 
   public Skills() {
-    Languages = new string[] { "C#", "JavaScript", "Ruby", "Python", "PHP" };
+    Languages = new string[] { "C#", "JavaScript", "Java", "Ruby", "Python", "PHP" };
     Libraries = new string[] { "React" };
-    Frameworks = new string[] { ".NET", "Ruby on Rails", "Django", "Laravel", "Angular", "Node.js", "Vue.js" };
+    Frameworks = new string[] { ".NET", "Angular", "Vue.js", "Node.js", "Ruby on Rails", "Laravel" };
   }
 }
 
