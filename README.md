@@ -26,7 +26,7 @@ public class Developer {
 
 public class AboutMe : Developer {
   public AboutMe() 
-      : base("Leckson", ".NET/C# Developer", "ABIEL IT Solutions", "Brazil", new Skills()) {
+      : base("Leckson", ".NET/C# Developer", "Outlier", "Brazil", new Skills()) {
   }
 }
 
